@@ -1,35 +1,35 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=nellocoder&color=2ea44f&style=flat" alt="Profile views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nellocoder&color=2ea44f&style=flat" alt="Profile views" />
+</p>
 
-&lt;h1 align="center"&gt;👋 Kishoyian Duncan&lt;/h1&gt;
+<h1 align="center">👋 Kishoyian Duncan</h1>
 
-&lt;p align="center"&gt;&lt;b&gt;🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician&lt;/b&gt;&lt;/p&gt;
+<p align="center"><b>🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician</b></p>
 
-&lt;p align="center"&gt;Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.&lt;/p&gt;
+<p align="center">Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.</p>
 
-&lt;p align="center"&gt;&lt;i&gt;Translating complex data into actionable insights for policy, public health, and operational decision-making.&lt;/i&gt;&lt;/p&gt;
+<p align="center"><i>Translating complex data into actionable insights for policy, public health, and operational decision-making.</i></p>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:kishsaningo@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/duncan-kishoyian"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://x.com/nellosynn"&gt;&lt;img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Nairobi,%20Kenya-2ea44f" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="mailto:kishsaningo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/duncan-kishoyian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/nellosynn"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Nairobi,%20Kenya-2ea44f" />
+</p>
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=nellocoder&show_icons=true&theme=tokyonight&hide_border=true" height="165" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellocoder&layout=compact&theme=tokyonight&hide_border=true" height="165" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nellocoder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellocoder&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ✈️ [Flight Delay Prediction](https://github.com/nellocoder/flight-delay-prediction)
-&gt; Regression pipeline predicting airline delay minutes from flight volume and carrier data.
+> Regression pipeline predicting airline delay minutes from flight volume and carrier data.
 
 | Metric | Result |
 |--------|--------|
@@ -40,7 +40,7 @@
 ---
 
 ### 🩺 [Diabetes Prediction Analysis](https://github.com/nellocoder/diabetes-prediction-analysis)
-&gt; End-to-end ML workflow for diabetes risk prediction using the Pima Indians dataset.
+> End-to-end ML workflow for diabetes risk prediction using the Pima Indians dataset.
 
 | Metric | Result |
 |--------|--------|
@@ -51,7 +51,7 @@
 ---
 
 ### 📊 [Mathematical Modeling of Alcoholism](https://github.com/nellocoder/Mathematical-Modeling-of-Alcoholism)
-&gt; Compartmental ODE model evaluating educational campaign impact on alcohol-use population dynamics.
+> Compartmental ODE model evaluating educational campaign impact on alcohol-use population dynamics.
 
 | Metric | Result |
 |--------|--------|
@@ -62,7 +62,7 @@
 ---
 
 ### 🚔 [Crime Analysis](https://github.com/nellocoder/Crime_analysis)
-&gt; Statistical and network-based analysis of crime patterns for intelligence-led decision making.
+> Statistical and network-based analysis of crime patterns for intelligence-led decision making.
 
 | Metric | Result |
 |--------|--------|
@@ -112,7 +112,7 @@ Based in **Nairobi, Kenya** 🇰🇪
 
 Work focuses on applying statistical and machine learning methods to **public health, crime analysis, and decision-support systems**.
 
-&gt; **Principles:** Reproducibility · Interpretability · Policy-relevant insights
+> **Principles:** Reproducibility · Interpretability · Policy-relevant insights
 
 Contributions and replications are welcome. All flagship repositories include open-source licenses and end-to-end execution instructions.
 
@@ -143,16 +143,12 @@ Contributions and replications are welcome. All flagship repositories include op
 
 ---
 
-&lt;p align="center"&gt;
+<h2 align="center">📫 Let's Connect</h2>
 
-## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:kishsaningo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/duncan-kishoyian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/nellosynn"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-&lt;a href="mailto:kishsaningo@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /&gt;&lt;/a&gt;
-&lt;a href="https://linkedin.com/in/duncan-kishoyian"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /&gt;&lt;/a&gt;
-&lt;a href="https://x.com/nellosynn"&gt;&lt;img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /&gt;&lt;/a&gt;
-
-&lt;br&gt;&lt;br&gt;
-
-*Open to research collaborations, MEL consultancy, and data-driven projects.*
-
-&lt;/p&gt;
+<p align="center"><em>Open to research collaborations, MEL consultancy, and data-driven projects.</em></p>
