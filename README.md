@@ -1,19 +1,13 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=nellocoder&color=2ea44f&style=flat" alt="Profile views" /&gt;
-&lt;/p&gt;
+![Profile views](https://komarev.com/ghpvc/?username=nellocoder&color=2ea44f&style=flat)
 
-&lt;p align="center"&gt;&lt;b&gt;🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician&lt;/b&gt;&lt;/p&gt;
+**🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician**
 
-&lt;p align="center"&gt;
-  Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.
-&lt;/p&gt;
+Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:kishsaningo@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/duncan-kishoyian"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://x.com/nellosynn"&gt;&lt;img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Nairobi,%20Kenya-2ea44f" /&gt;
-&lt;/p&gt;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishsaningo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/duncan-kishoyian)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/nellosynn)
+![Location](https://img.shields.io/badge/Nairobi,%20Kenya-2ea44f)
 
 ---
 
