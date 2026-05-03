@@ -1,63 +1,128 @@
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=nellocoder&color=blue)
 
-# Kishoyian Duncan — nellocoder
+# 👋 Kishoyian Duncan
 
-**Research Analyst · Data Scientist · Statistician**
+**🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-duncan--kishoyian-0077B5?logo=linkedin)](https://linkedin.com/in/duncan-kishoyian)
-[![Twitter](https://img.shields.io/badge/Twitter-@nellosynn-1DA1F2?logo=twitter)](https://twitter.com/nellosynn)
-[![Email](https://img.shields.io/badge/Email-duncan.saningo-D14836?logo=gmail)](mailto:duncan.saningo@gmail.com)
-
-</div>
+Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.
 
 ---
 
-## About
-
-Research analyst and data scientist with expertise in statistical modelling,
-ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks.
-Based in Mombasa, Kenya. Work spans public health research, predictive modelling,
-and evidence-based decision making.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nellocoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellocoder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-## Skills
+## 📍 About
 
-| Category | Tools |
-|----------|-------|
-| Languages | Python · R · SQL · TypeScript |
-| Analysis | scikit-learn · pandas · statsmodels · tidyverse |
-| Visualisation | matplotlib · seaborn · ggplot2 · Power BI |
-| ML | Regression · Classification · Mathematical modelling |
-| MEL & Data | KoboToolbox · REDCap · ODK · SPSS · STATA |
-| Workflows | Git · Jupyter · RMarkdown · GitHub Actions |
+Based in **Nairobi, Kenya** 🇰🇪  
+Work focuses on applying statistical and machine learning methods to **public health, crime analysis, and decision-support systems**.
 
----
-
-## Featured Projects
-
-### [flight-delay-prediction](https://github.com/nellocoder/flight-delay-prediction)
-Regression analysis predicting airline delays using Python and Scikit-Learn.
-Covers feature engineering, model selection, and evaluation.
-
-### [diabetes-prediction-analysis](https://github.com/nellocoder/diabetes-prediction-analysis)
-End-to-end analysis and prediction of diabetes risk using the Pima Indians dataset.
-Includes EDA, preprocessing, and classification modelling.
-
-### [Mathematical-modeling-of-Alcoholism](https://github.com/nellocoder/Mathematical-modeling-of-AlcoAholism)
-Compartmental mathematical model of an alcohol use educational campaign.
-Demonstrates public health intervention modelling using ODEs.
-
-### [Crime_analysis](https://github.com/nellocoder/Crime_analysis)
-Exploratory and statistical analysis of crime data patterns.
+Emphasis on:
+- Reproducibility  
+- Interpretability  
+- Policy-relevant insights  
 
 ---
 
-## Currently Working On
+## 🧠 Core Areas
 
-- Crime pattern analysis using geospatial and statistical methods
-- Strengthening reproducible research workflows
+- 📊 Statistical modelling and inference  
+- 🤖 Machine learning pipelines  
+- 🏥 Public health and epidemiological research  
+- 🗺️ Crime and geospatial data analysis  
+- 📋 Monitoring, Evaluation, and Learning (MEL) systems  
 
 ---
 
-<p align="center">Open to research collaborations, MEL consultancy, and data-driven projects.</p>
+## 🔬 Specialized Methodologies
+
+- Bayesian statistical approaches for uncertainty estimation  
+- Stochastic and deterministic modelling of real-world systems  
+- Survival and longitudinal data analysis  
+- Compartmental modelling using differential equations  
+
+> Note: Expand this section only if supported by repository evidence.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-5C2D91?style=for-the-badge)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
+
+### Data Systems & MEL
+KoboToolbox · REDCap · ODK · SPSS · STATA  
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Flight Delay Prediction  
+Developed a regression modelling pipeline for predicting airline delays using structured flight data.  
+**Impact:** Demonstrates feature engineering and model evaluation for operational forecasting.  
+
+---
+
+### 🧬 Diabetes Prediction Analysis  
+Built an end-to-end machine learning workflow for predicting diabetes risk.  
+**Impact:** Showcases data preprocessing, classification modelling, and evaluation.  
+
+---
+
+### 🍺 Mathematical Modeling of Alcoholism  
+Developed a compartmental ODE model to evaluate the impact of educational campaigns on substance use.  
+**Impact:** Provides a theoretical framework for assessing intervention effectiveness.  
+
+---
+
+### 🚔 Crime Analysis  
+Performed exploratory and statistical analysis of crime patterns.  
+**Impact:** Supports understanding of spatial and temporal trends in crime data.  
+
+---
+
+## 👨‍🏫 Teaching & Academic Contributions
+
+- Developed instructional materials for undergraduate mathematics (Algebra, Calculus)  
+- Produced LaTeX-based academic and technical documents  
+- Supported training in data collection tools (KoboToolbox, ODK) and analysis workflows  
+
+---
+
+## 🔍 Current Focus
+
+- 🗺️ Crime pattern analysis using geospatial and statistical methods  
+- 🔁 Strengthening reproducible research workflows  
+
+---
+
+## 🤝 Collaboration
+
+Open to:
+- Research collaborations  
+- MEL system design and evaluation  
+- Data science and analytics projects  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: kishsaningo@gmail.com  
+- 💼 LinkedIn: in/duncan-kishoyian  
+- 🐙 GitHub: https://github.com/nellocoder  
