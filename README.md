@@ -1,19 +1,109 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="180">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="180" fill="url(#bg)" rx="10"/>
-  <text x="400" y="75" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#f0f6fc" text-anchor="middle">
-    Kishoyian Duncan
-  </text>
-  <text x="400" y="110" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle">
-    Research Analyst · Data Scientist · Statistician
-  </text>
-  <rect x="300" y="135" width="200" height="3" fill="#2ea44f" rx="1.5"/>
-  <text x="400" y="158" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">
-    Nairobi, Kenya · Evidence-Based Decision Making · MEL Frameworks
-  </text>
-</svg>
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=nellocoder&color=2ea44f&style=flat" alt="Profile views" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;&lt;b&gt;🔬 Research Analyst · 📊 Data Scientist · 📈 Statistician&lt;/b&gt;&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  Research analyst and data scientist with expertise in statistical modelling, ML pipelines, and Monitoring, Evaluation, and Learning (MEL) frameworks for evidence-based decision making.
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;a href="mailto:kishsaningo@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://linkedin.com/in/duncan-kishoyian"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://x.com/nellosynn"&gt;&lt;img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;img src="https://img.shields.io/badge/Nairobi,%20Kenya-2ea44f" /&gt;
+&lt;/p&gt;
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ [Flight Delay Prediction](https://github.com/nellocoder/flight-delay-prediction)
+**TL;DR:** Regression pipeline predicting airline delay minutes from flight volume and carrier data.  
+**Key result:** R² = 0.95 on monthly aggregates; carrier identity alone explains ~30% of delay variance beyond traffic volume.  
+**Stack:** Python · scikit-learn · pandas · seaborn · Jupyter
+
+### 🩺 [Diabetes Prediction Analysis](https://github.com/nellocoder/diabetes-prediction-analysis)
+**TL;DR:** End-to-end ML workflow for diabetes risk prediction using the Pima Indians dataset.  
+**Key result:** 75.32% accuracy with Logistic Regression; K-Means segmentation (k=3) identifies distinct metabolic-risk patient profiles.  
+**Stack:** Python · scikit-learn · pandas · matplotlib
+
+### 📊 [Mathematical Modeling of Alcoholism](https://github.com/nellocoder/Mathematical-modeling-of-Alcoholism)
+**TL;DR:** Compartmental ODE model evaluating the impact of educational campaigns on alcohol-use population dynamics.  
+**Key result:** Quantifies equilibrium prevalence and intervention efficacy through sensitivity analysis and phase-plane visualisation.  
+**Stack:** Python · scipy · numpy · matplotlib
+
+### 🚔 [Crime Analysis](https://github.com/nellocoder/Crime_analysis)
+**TL;DR:** Network and statistical analysis of crime distribution patterns in coastal urban areas.  
+**Key result:** Centrality analysis identifies core distribution nodes and brokerage roles; outputs intelligence-led enforcement recommendations.  
+**Stack:** Python · networkx · pandas · matplotlib
+
+---
+
+## 🧠 Core Areas
+
+- 📊 Statistical modelling and inference
+- 🤖 Machine learning pipelines (regression, classification, clustering)
+- 🏥 Public health and epidemiological research
+- 🗺️ Crime and geospatial data analysis
+- 📋 Monitoring, Evaluation, and Learning (MEL) systems
+- 🔬 Compartmental ODE modelling for intervention impact assessment
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · R · SQL · TypeScript
+
+**Data & ML:** Pandas · Scikit-Learn · Statsmodels
+
+**Visualization:** Matplotlib · Seaborn · Power BI
+
+**Data Collection & MEL:** KoboToolbox · REDCap · ODK · SPSS · STATA
+
+---
+
+## 📍 About
+
+Based in **Nairobi, Kenya** 🇰🇪  
+Work focuses on applying statistical and machine learning methods to **public health, crime analysis, and decision-support systems**.
+
+Emphasis on:
+- Reproducibility
+- Interpretability
+- Policy-relevant insights
+
+&gt; All flagship repositories include `requirements.txt`, open-source licenses, and end-to-end execution instructions. Contributions and replications are welcome.
+
+---
+
+## 👨‍🏫 Teaching & Academic Contributions
+
+- 📚 Developed instructional materials for undergraduate mathematics (Algebra, Calculus)
+- 📝 Produced LaTeX-based academic and technical documents
+- 🎓 Supported training in data collection tools (KoboToolbox, ODK) and analysis workflows
+
+---
+
+## 🔍 Current Focus
+
+- 🗺️ Crime pattern analysis using geospatial and statistical methods
+- 🔁 Strengthening reproducible research workflows
+
+---
+
+## 🤝 Collaboration
+
+Open to:
+- Research collaborations
+- MEL system design and evaluation
+- Data science and analytics projects
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** [kishsaningo@gmail.com](mailto:kishsaningo@gmail.com)
+- 💼 **LinkedIn:** [in/duncan-kishoyian](https://linkedin.com/in/duncan-kishoyian)
+- 🐙 **GitHub:** [github.com/nellocoder](https://github.com/nellocoder)
